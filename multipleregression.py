@@ -1,6 +1,6 @@
 import pandas as pd  
 import numpy as np
-dataset= pd.read_excel("C:/Users/Ashima/Desktop/Female_stats.xlsx") 
+dataset= pd.read_excel("#") 
 print(dataset.dtypes)
 temp = dataset.values
 type(temp)
